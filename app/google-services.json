@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "283038576682",
+    "project_id": "exampleprojects-d19d8",
+    "storage_bucket": "exampleprojects-d19d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283038576682:android:af2d187e9835a04f931353",
+        "android_client_info": {
+          "package_name": "com.imranmelikov.firebasekotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdWc02KgE_IOyCcjXaX-iyuhkqS-Jfkzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
